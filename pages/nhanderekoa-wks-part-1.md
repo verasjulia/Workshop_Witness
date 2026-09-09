@@ -13,7 +13,7 @@ components:
     id: part_1_nhanderekoa
     shortTitle: part 1 - nhanderekoa
     longTitle: ''
-    description: título e resumo
+    description: ''
     showInMenu: false
     animations: true
     txtColor: Highlight
