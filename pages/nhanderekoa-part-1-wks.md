@@ -1,12 +1,12 @@
 ---
 standalone: true
-title: Nhanderekoa Part 1
-slug: nhanderekoa-part-1
-projeto: Nhanderekoa
+title: Nhanderekoa WKS Part 1
+slug: nhanderekoa-wks-part-1
+projeto: Nhanderekoa WKS
 pageSettings: null
 pageTheme: null
 pageInclude:
-  mainSlug: nhanderekoa
+  mainSlug: nhanderekoa-wks
 modules: []
 components:
   - type: Group
