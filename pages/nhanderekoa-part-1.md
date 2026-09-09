@@ -99,9 +99,9 @@ components:
               src: /uploads/imagem_XX_mata.jpg
               alt: ''
               description: mata do jaraguá
-              desktop: 100px
-              tablet: 100px
-              mobile: 100px
+              desktop: 250px
+              tablet: 250px
+              mobile: 150px
             - type: Pullquote
               content: The xeramoi always say that the elements of Guarani culture are embedded precisely in the ka'aguy, “the woods,” “the forest.” For us, ka'aguy is like our older brother, because the forest makes our way of life happen in the right way, because all the teachings are there.
               txtColor: '#18af1aff'
