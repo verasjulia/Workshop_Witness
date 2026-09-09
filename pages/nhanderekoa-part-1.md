@@ -12,9 +12,9 @@ components:
   - type: Group
     id: part_1_nhanderekoa
     shortTitle: part 1 - nhanderekoa
-    longTitle: part 1 - nhanderekoa
+    longTitle: ''
     description: título e resumo
-    showInMenu: true
+    showInMenu: false
     animations: true
     txtColor: Highlight
     customTxtColor: ''
@@ -61,7 +61,7 @@ components:
   - type: Group
     id: part_1_text_1
     shortTitle: part 1 - text 1
-    longTitle: part 1 - text 1
+    longTitle: Nhanderekoa
     description: ''
     showInMenu: true
     animations: true
@@ -99,9 +99,9 @@ components:
               src: /uploads/imagem_XX_mata.jpg
               alt: ''
               description: mata do jaraguá
-              desktop: 100px
-              tablet: 100px
-              mobile: 100px
+              desktop: 250px
+              tablet: 250px
+              mobile: 150px
             - type: Pullquote
               content: The xeramoi always say that the elements of Guarani culture are embedded precisely in the ka'aguy, “the woods,” “the forest.” For us, ka'aguy is like our older brother, because the forest makes our way of life happen in the right way, because all the teachings are there.
               txtColor: '#18af1aff'
@@ -287,19 +287,19 @@ components:
               description: At Tekoa Yvy Porã, the houses blend with the forest, forming part of the same ecological system.
         column2:
           components:
+            - type: Spacer
+              desktop: 300px
+              tablet: 300px
+              mobile: 100px
             - type: Pullquote
               content: For us, the forest has an intelligence; everything works in a way that one thing connects to another — the animals matter to the ka'aguy and to us, the trees, the herbs... everything is connected. For us it is not simply the forest. It is our brother, a member of our people. As if they were connected spirits, one depending on the other.
               txtColor: ''
               bgColor: ''
               byline: Jurandir Tupã Jekupe Mirim
-            - type: Spacer
-              desktop: 300px
-              tablet: 300px
-              mobile: 100px
   - type: Group
     id: part_2_the_colonization_of_jaragua
     shortTitle: part 2 - colonization of jaragua
-    longTitle: part 2 - colonization of jaragua
+    longTitle: 'From Invasion to Park: the colonization of Jaraguá'
     description: ''
     showInMenu: true
     animations: true

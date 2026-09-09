@@ -16,9 +16,9 @@ pageSettings:
   seoImage: ''
 pageTheme:
   primaryColor: '#000000'
-  secondaryColor: '#14882a'
+  secondaryColor: '#158a17'
   highlightColor: '#ffffff'
-  auxiliaryColor: '#484848'
+  auxiliaryColor: '#4c4242'
   displayFont: ''
   textFont: ''
   spacingPatterns:
@@ -70,7 +70,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#fb8f13'
             typeIcon: outlined
@@ -108,7 +108,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -141,7 +141,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -174,7 +174,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -207,7 +207,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -240,7 +240,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -273,7 +273,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -306,7 +306,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -339,7 +339,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -372,7 +372,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -414,7 +414,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -465,7 +465,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -494,7 +494,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -518,7 +518,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: true
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#d28fef37'
             typeIcon: outlined
@@ -559,7 +559,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
       - id: map3_set2013
         centerLng: '-46.753'
         centerLat: '-23.460'
@@ -584,7 +584,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
       - id: map3_out2013
         centerLng: '-46.702'
         centerLat: '-23.511'
@@ -607,7 +607,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: true
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
       - id: map3_2013zoom
         centerLng: '-46.656'
         centerLat: '-23.573'
@@ -732,7 +732,7 @@ modules:
             colorIcon: '#0e9013ff'
             typeIcon: outlined
             iconFill: true
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c8094f'
             typeIcon: outlined
@@ -757,7 +757,7 @@ modules:
             colorIcon: '#0e9013ff'
             typeIcon: outlined
             iconFill: true
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c8094f'
             typeIcon: outlined
@@ -785,7 +785,7 @@ modules:
             colorIcon: '#0e9013ff'
             typeIcon: outlined
             iconFill: true
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c8094f'
             typeIcon: outlined
@@ -873,7 +873,7 @@ modules:
             colorIcon: '#0e9013ff'
             typeIcon: outlined
             iconFill: true
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c8094f'
             typeIcon: outlined
@@ -933,7 +933,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c15aed'
             typeIcon: outlined
@@ -971,7 +971,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c15aed'
             typeIcon: outlined
@@ -1018,7 +1018,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c15aed'
             typeIcon: outlined
@@ -1062,7 +1062,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c15aed'
             typeIcon: outlined
@@ -1104,7 +1104,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: show_chart
             colorIcon: '#9b16d4'
             typeIcon: outlined
@@ -1151,7 +1151,7 @@ modules:
             colorIcon: '#1b9613'
             typeIcon: outlined
             iconFill: false
-            text: Jaraguá Indigenous Territory 
+            text: Jaraguá Indigenous Territory
           - icon: circle
             colorIcon: '#c15aed'
             typeIcon: outlined

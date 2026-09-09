@@ -5,8 +5,7 @@ slug: nhanderekoa-wks-part-3
 projeto: Nhanderekoa WKS
 pageSettings: null
 pageTheme: null
-pageInclude:
-  mainSlug: nhanderekoa-wks
+pageInclude: null
 modules: []
 components:
   - type: Group
