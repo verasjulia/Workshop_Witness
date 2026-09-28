@@ -26,87 +26,41 @@ components:
       - type: MapView
         txtColor: ''
         bgColor: ''
-        mapView: map2_jaraguasptudo
-      - type: Spacer
-        desktop: 600px
-        tablet: 900px
-        mobile: 700px
-      - type: MapView
-        txtColor: ''
-        bgColor: ''
         mapView: map2_pateo
-      - type: Text
-        hasDropCap: false
-        content: In 1554, the settlement of São Paulo dos Campos de Piratininga was founded, the future city of São Paulo, where the Pateo do Collegio stands today.
-      - type: Spacer
-        desktop: 50px
-        tablet: 50px
-        mobile: 50px
-      - type: ImageBlock
-        wideImage: false
-        src: /uploads/ndk_palacio-do-governo-de-sp-debret_1827.jpg
-        alt: ''
-        description: Painting of the Pateo do Collegio, by Jean-Baptiste Debret, from when the building served as the Government Palace of São Paulo in 1827.
+      - type: Timeline
+        components:
+          - type: TimelineBullet
+            content: In 1554, the settlement of São Paulo dos Campos de Piratininga was founded, the future city of São Paulo, where the Pateo do Collegio stands today.
+            text: year of 1554
+          - type: ImageBlock
+            wideImage: false
+            src: /uploads/ndk_palacio-do-governo-de-sp-debret_1827.jpg
+            alt: ''
+            description: Painting of Pateo do Collegio by Jean-Baptiste Debret, from when the building served as the Government Palace of São Paulo in 1827
       - type: Spacer
         desktop: 600px
         tablet: 600px
-        mobile: 700px
+        mobile: 300px
       - type: MapView
         txtColor: ''
         bgColor: ''
         mapView: map2_barueri
-      - type: Text
-        hasDropCap: false
-        content: In 1560, south of Pico do Jaraguá, in the region of Barueri, José de Anchieta had another mission settlement built for the concentration and Christianization of Indigenous people.
-      - type: Spacer
-        desktop: 50px
-        tablet: 50px
-        mobile: 50px
-      - type: ImageBlock
-        wideImage: false
-        src: /uploads/ndk_capela_nsra_da_escada_2.jpg
-        alt: ''
-        description: 'Chapel of Nossa Senhora da Escada, the central point of the Barueri mission settlement. The ruins of the original 16th-century chapel were found in 2003 and soon after restored (Photo: Victor Hugo Mori/Vitruvius).'
-        txtColor: ''
-        bgColor: ''
+      - type: Timeline
+        components:
+          - type: TimelineBullet
+            content: In 1560, south of Pico do Jaraguá, in the region of Barueri, José de Anchieta had another mission settlement built for the concentration and Christianization of Indigenous people.
+            text: year of 1560
+          - type: ImageBlock
+            wideImage: false
+            src: /uploads/ndk_capela_nsra_da_escada_2.jpg
+            alt: ''
+            description: 'Chapel of Nossa Senhora da Escada, the central point of the Barueri mission settlement. The ruins of the original 16th-century chapel were found in 2003 and soon after restored (Photo: Victor Hugo Mori/Vitruvius).'
       - type: Spacer
         desktop: 600px
         tablet: 600px
-        mobile: 700px
-      - type: MapView
-        txtColor: ''
-        bgColor: ''
-        mapView: map2_ourojaragua
-      - type: Text
-        hasDropCap: false
-        content: Shortly after, in 1597, the bandeirante Afonso Sardinha found gold in the Jaraguá region. He established a large property in the area, building a Casa Grande – Senzala (Big House – Slave Quarters) complex at the foot of the hill.
-        txtColor: ''
-        bgColor: ''
-      - type: Spacer
-        desktop: 50px
-        tablet: 50px
-        mobile: 50px
-      - type: ImageBlock
-        wideImage: false
-        src: /uploads/ndk_casa_afonso_sardinha.jpg
-        alt: ''
-        description: The Casa Grande-Senzala complex built by Afonso Sardinha is today the main heritage site of Jaraguá State Park.
-        txtColor: ''
-        bgColor: ''
-      - type: Spacer
-        desktop: 300px
-        tablet: 300px
-        mobile: 400px
-      - type: MapView
-        txtColor: ''
-        bgColor: ''
-        mapView: map2_jaraguasp
-      - type: Spacer
-        desktop: 800px
-        tablet: 800px
-        mobile: 800px
+        mobile: 300px
     columnAlign: right
-    floatingText: true
+    floatingText: false
   - type: Group
     id: part_2_text_2
     shortTitle: part 2 - text 2
