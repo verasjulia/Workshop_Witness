@@ -458,19 +458,14 @@ modules:
           pateo-collegio-label
           capela-barueri
           capela-barueri-label
-        title: ''
+        title: Colonial Heritage
         notes: ''
         items:
           - icon: show_chart
-            colorIcon: '#1b9613'
+            colorIcon: '#2ac03cff'
             typeIcon: outlined
             iconFill: false
             text: Jaraguá Indigenous Territory
-          - icon: circle
-            colorIcon: '#9b16d4'
-            typeIcon: outlined
-            iconFill: true
-            text: Colonial heritage
       - id: map2_ourojaragua
         centerLng: '-46.769'
         centerLat: '-23.456'
