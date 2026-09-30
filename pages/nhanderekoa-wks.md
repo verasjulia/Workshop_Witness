@@ -528,4 +528,21 @@ components:
         mobile: 400px
     columnAlign: left
     floatingText: false
+  - type: Group
+    id: group_1
+    shortTitle: grooup
+    longTitle: ''
+    description: ''
+    showInMenu: false
+    animations: true
+    txtColor: Primary
+    customTxtColor: ''
+    bgColor: Secondary
+    customBgColor: ''
+    backgroundMedia: []
+    overlay: none
+    components:
+      - type: Text
+        hasDropCap: false
+        content: lorem ipsum
 ---
