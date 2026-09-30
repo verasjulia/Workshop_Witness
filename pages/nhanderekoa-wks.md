@@ -2,7 +2,7 @@
 standalone: true
 title: Nhanderekoa WKS
 slug: nhanderekoa-wks
-projeto: ''
+projeto: nhanderekoa wks
 pageSettings:
   language: en
   link_pt_br: '#'
@@ -10,10 +10,13 @@ pageSettings:
   link_es: '#'
   animations: enable_all
   direction: left
-  seoTitle: ''
+  seoTitle: Nhanderekoa
   seoDescription: ''
-  seoKeywords: []
-  seoImage: ''
+  seoKeywords:
+    - keyword: nhanderekoa
+    - keyword: indigenous land
+    - keyword: guarani mbya
+  seoImage: /uploads/imagem_01_pico.jpg
 pageTheme:
   primaryColor: ''
   secondaryColor: '#4daf4b'
@@ -528,21 +531,6 @@ components:
         mobile: 400px
     columnAlign: left
     floatingText: false
-  - type: Group
-    id: group_1
-    shortTitle: grooup
-    longTitle: ''
-    description: ''
-    showInMenu: false
-    animations: true
-    txtColor: Primary
-    customTxtColor: ''
-    bgColor: Secondary
-    customBgColor: ''
-    backgroundMedia: []
-    overlay: none
-    components:
-      - type: Text
-        hasDropCap: false
-        content: lorem ipsum
+  - type: Include
+    slug: nhanderekoa-credits
 ---
