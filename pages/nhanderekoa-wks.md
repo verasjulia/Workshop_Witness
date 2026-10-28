@@ -18,7 +18,7 @@ pageSettings:
     - keyword: guarani mbya
   seoImage: /uploads/imagem_01_pico.jpg
 pageTheme:
-  primaryColor: ''
+  primaryColor: '#000000'
   secondaryColor: '#4daf4b'
   highlightColor: '#ffffff'
   auxiliaryColor: '#616161'
@@ -33,8 +33,8 @@ pageInclude: null
 modules:
   - type: MapBox
     style: mapbox://styles/studio-autonoma/cmsz20c6j009y01s0c0zx2bbz
-    token: pk.eyJ1Ijoic3R1ZGlvLWF1dG9ub21hIiwiYSI6ImNtY3V2d3dtMTA0ZXgycnB4OW01cjlqb2QifQ.3NMaRt1maLlqTv 6nlVqVHA
-    centerLng: '-46.766'
+    token: pk.eyJ1Ijoic3R1ZGlvLWF1dG9ub21hIiwiYSI6ImNtY3V2d3dtMTA0ZXgycnB4OW01cjlqb2QifQ.3NMaRt1maLlqTv6nlVqVHA
+    centerLng: '-46.768'
     centerLat: '-23.462'
     zoom: '13'
     bearing: '0'
@@ -44,8 +44,8 @@ modules:
     floatingText: false
     views:
       - id: mapview_1
-        centerLng: '-46.677'
-        centerLat: '-23.520'
+        centerLng: '-47.060'
+        centerLat: '-23.502'
         zoom: '9.64'
         mobileZoom: '5'
         duration: '2000'
@@ -58,7 +58,22 @@ modules:
           exploracao-ouro-sp
         title: ''
         notes: ''
-        items: []
+        items:
+          - icon: show_chart
+            colorIcon: '#1ac13cff'
+            typeIcon: outlined
+            iconFill: false
+            text: Jaraguá Indigenous Territory
+          - icon: circle
+            colorIcon: '#c23cfbff'
+            typeIcon: outlined
+            iconFill: true
+            text: Colonial heritage
+          - icon: circle
+            colorIcon: '#c23cfb5f'
+            typeIcon: outlined
+            iconFill: true
+            text: Areas of gold mining in São Paulo
       - id: mapview_2
         centerLng: '-46.633'
         centerLat: '-23.548'
@@ -68,6 +83,37 @@ modules:
         bearing: '0'
         pitch: '0'
         layers: pateo-collegio-area
+        title: ''
+        notes: ''
+        items: []
+      - id: mapview_3
+        centerLng: '-46.763'
+        centerLat: '-23.501'
+        zoom: '11.38'
+        mobileZoom: '5'
+        duration: '2000'
+        bearing: '0'
+        pitch: '0'
+        layers: |-
+          ti-jaragua
+          pateo-collegio
+          pateo-collegio-label
+          capela-barueri
+          capela-barueri-label
+        title: ''
+        notes: ''
+        items: []
+      - id: mapview_4
+        centerLng: '-46.965'
+        centerLat: '-23.487'
+        zoom: '9.91'
+        mobileZoom: '5'
+        duration: '2000'
+        bearing: '0'
+        pitch: '0'
+        layers: |-
+          ti-jaragua
+          exploracao-ouro-sp
         title: ''
         notes: ''
         items: []
@@ -94,7 +140,7 @@ components:
         paddingTop: false
         paddingBottom: false
         layout: text-bigger
-        title: NHANDEREKOA
+        title: NHANDEREKOA!!!!!
         components:
           - type: Spacer
             desktop: 800px
@@ -510,8 +556,8 @@ components:
     description: ''
     showInMenu: true
     animations: true
-    txtColor: Primary
-    bgColor: ''
+    txtColor: Highlight
+    bgColor: Primary
     components:
       - type: MapView
         txtColor: ''
@@ -525,12 +571,44 @@ components:
         txtColor: ''
         bgColor: ''
         mapView: mapview_2
+      - type: Text
+        hasDropCap: false
+        content: In 1554, the settlement of São Paulo dos Campos de Piratininga was founded, the future city of São Paulo, where the Pateo do Collegio stands today.
+      - type: ImageBlock
+        wideImage: false
+        src: /uploads/ndk_palacio-do-governo-de-sp-debret_1827.jpg
+        alt: ''
+        description: Painting of Pateo do Collegio by Jean-Baptiste Debret, from when the building served as the Government Palace of São Paulo in 1827
       - type: Spacer
         desktop: 800px
         tablet: 800px
         mobile: 400px
-    columnAlign: left
-    floatingText: false
+      - type: MapView
+        txtColor: ''
+        bgColor: ''
+        mapView: mapview_3
+      - type: Text
+        hasDropCap: false
+        content: In 1560, south of Pico do Jaraguá, in the region of Barueri, José de Anchieta had another mission settlement built for the concentration and Christianization of Indigenous people.
+      - type: ImageBlock
+        wideImage: false
+        src: /uploads/ndk_capela_nsra_da_escada_2.jpg
+        alt: ''
+        description: 'Chapel of Nossa Senhora da Escada, the central point of the Barueri mission settlement. The ruins of the original 16th-century chapel were found in 2003 and soon after restored (Photo: Victor Hugo Mori/Vitruvius).'
+      - type: Spacer
+        desktop: 800px
+        tablet: 800px
+        mobile: 400px
+      - type: MapView
+        txtColor: ''
+        bgColor: ''
+        mapView: mapview_4
+      - type: Spacer
+        desktop: 800px
+        tablet: 800px
+        mobile: 400px
+    columnAlign: right
+    floatingText: true
   - type: Include
     slug: nhanderekoa-credits
 ---
