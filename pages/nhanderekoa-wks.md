@@ -140,7 +140,7 @@ components:
         paddingTop: false
         paddingBottom: false
         layout: text-bigger
-        title: NHANDEREKOA!!!!!
+        title: NHANDEREKOA
         components:
           - type: Spacer
             desktop: 800px
